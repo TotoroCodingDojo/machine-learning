@@ -22,7 +22,7 @@
 ## Outline
 
 - Classification
-    - [Supervised learning](./supervised-learning/supervised-learning.md)
+    - [Supervised learning](./supervised-learning/README.md)
         - Decision tree
         - Ensembles
             - Bagging
@@ -37,7 +37,7 @@
         - Relevance vector machine (RVM)
         - Support vector machine (SVM)
     - Semi-supervised learning
-    - [Unsupervised learning](./unsupervised-learning/unsupervised-learning.md)
+    - [Unsupervised learning](./unsupervised-learning/README.md)
         - Clustering
             - BIRCH
             - CURE
@@ -129,6 +129,8 @@ Terminologies of Machine Learning
 - Training
 - Prediction
 
+![](img/problem-classification.png)
+
 ## Resources
 
 - <https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/videos>
@@ -138,3 +140,13 @@ Terminologies of Machine Learning
 - <https://developers.google.com/machine-learning/crash-course>
 - <https://www.khanacademy.org/math/statistics-probability>
 - <https://developers.google.com/machine-learning/practica/image-classification>
+- <https://en.wikipedia.org/wiki/Machine_learning>
+- <https://en.wikipedia.org/wiki/Template:Machine_learning>
+- <https://en.wikipedia.org/wiki/Supervised_learning>
+- <https://en.wikipedia.org/wiki/Regression_analysis>
+- <https://en.wikipedia.org/wiki/Decision_tree_learning>
+- <https://en.wikipedia.org/wiki/K-means_clustering>
+- <https://huggingface.co/>
+- <https://themlbook.com/>
+- <https://www.pluralsight.com/paths/building-machine-learning-solutions-with-scikit-learn>
+- [Langchain: Rag From Scratch, YouTube](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
